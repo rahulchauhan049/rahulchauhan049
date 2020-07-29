@@ -2,6 +2,13 @@
 ---
 ## About Me: 👨‍💻
 ---
+
+<p align="center">
+  <img width="800" height="450" src="final.gif" />
+</p>
+
+
+
 :mortar_board: I am a Computer Science Undergratue with specialization in Data Analytics. 
 
 :see_no_evil: I completed Google Summer of code 2 times in row with R Organization. I am working on open source projects since my first Year.
@@ -10,7 +17,6 @@
 
 :frog: I love solving life problems using code. (Love to talk about them)
 
-![Few Projects](final.gif)
 
 ---
 
