@@ -57,8 +57,11 @@
 <code><img height="20" src="https://www.pngitem.com/pimgs/m/385-3850359_icon-mongodb-logo-hd-png-download.png"></code> 
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/redis-83994.png"></code>
 <code><img height="20" src="https://styles.redditmedia.com/t5_2uakt/styles/communityIcon_fmttas2xiy351.png"></code> 
+<code><img height="20" src="https://www.pinclipart.com/picdir/middle/182-1822158_debugger-for-electron-next-js-examples-clipart.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/30949385/58746251-e0446a00-8479-11e9-9396-4829edcf6afa.png"></code>
   
+  
+ 
   
 <br/>
 </br>
