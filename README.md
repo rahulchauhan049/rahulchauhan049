@@ -4,29 +4,18 @@
 
 </h3>
 
-<a href="https://www.linkedin.com/in/rahul-chauhan049/">
-  <img align="left" alt="Rahul's's LinkedIn" width="32px" src="https://w7.pngwing.com/pngs/402/997/png-transparent-linkedin-logo-computer-icons-facebook-user-profile-facebook-blue-angle-text.png" />
-</a>
-
-<a href="https://twitter.com/calledRahul">
-  <img align="left" alt="Rahul's's Twitter" width="32px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-icon-png-logo-2.png" />
-</a> 
-
-<a href="https://www.facebook.com/rahul.chauhan049/">
-  <img align="left" alt="Rahul's's Facebook" width="32px" src="https://thumbs.dreamstime.com/b/facebook-icon-logo-white-background-editable-vector-illustration-facebook-icon-logo-141051712.jpg" />
-</a> 
-
-
-<a href="https://techtalks-wm.blogspot.com/">
-  <img align="left" alt="Rahul's Twitter" width="32px" src="https://cdn1.iconfinder.com/data/icons/metro-ui-dock-icon-set--icons-by-dakirby/128/Google_Blogger_mirror.png" />
-</a> 
-
+<table align="center">
+ <th> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"/> Connect with me  :</th>
+  <td>
+   <a href="https://www.linkedin.com/in/rahul-chauhan049/" class="pics"><img src="https://user-images.githubusercontent.com/56452820/132254880-375d3383-f227-4920-a94b-e567592268f8.png" height="47vh">  </a>
+     <a href="https://twitter.com/calledRahul" class="pics"><img src="https://www.seekpng.com/png/detail/351-3516255_png-file-svg-twitter-icon-white-square.png" height="47vh">  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=rahul.chauhan049@gmail.com" class="pics"><img src="https://user-images.githubusercontent.com/56452820/132254868-4afe403c-0c88-4023-86c5-23ef0ec7a3f7.png" height="47vh">
+    <a href="https://techtalks-wm.blogspot.com/" class="pics">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJG8PvowngEuuNcrhT38Di7xI4IB1Q_r6nGw&usqp=CAU" height="47vh"></td>
+    </table>
+ 
 <img src="https://i.poweredtemplates.com/i/cl/00/682/ppt_animation_332.gif" width="430" align='right'>
 
-
-
-<br/>
-</br>
 
 
 :mortar_board: I am a Computer Science Undergratue with specialization in Data Analytics. 
@@ -73,4 +62,5 @@
 
 
   ![Rahul's Github Stats](https://github-readme-stats.vercel.app/api?username=rahulchauhan049&count_private=true&show_icons=true&theme=radical)
+  
 
