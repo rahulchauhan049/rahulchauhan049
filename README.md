@@ -52,9 +52,12 @@
 <code><img height="20" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"></code>
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png"></code> 
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTCxVvmk61dnihi9bEfgmV6gatFih8ZuLu7qMOxPpirUCK12JPSWg1SJsOpfxqeZIpZ7c&usqp=CAU"></code>
-<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png"></code> 
-<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTCxVvmk61dnihi9bEfgmV6gatFih8ZuLu7qMOxPpirUCK12JPSWg1SJsOpfxqeZIpZ7c&usqp=CAU"></code>
-  
+<code><img height="20" src="https://w7.pngwing.com/pngs/190/922/png-transparent-kubernetes-docker-devops-lxc-mongodb-github-blue-logo-symmetry-thumbnail.png"></code> 
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/redux-3629610-3032308.png"></code>
+<code><img height="20" src="https://www.pngitem.com/pimgs/m/385-3850359_icon-mongodb-logo-hd-png-download.png"></code> 
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/redis-83994.png"></code>
+<code><img height="20" src="https://styles.redditmedia.com/t5_2uakt/styles/communityIcon_fmttas2xiy351.png"></code> 
+<code><img height="20" src="https://user-images.githubusercontent.com/30949385/58746251-e0446a00-8479-11e9-9396-4829edcf6afa.png"></code>
   
   
 <br/>
