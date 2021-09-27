@@ -5,12 +5,17 @@
 </h3>
 
 <a href="https://www.linkedin.com/in/rahul-chauhan049/">
-  <img align="left" alt="Rahul's's LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Rahul's's LinkedIn" width="32px" src="https://w7.pngwing.com/pngs/402/997/png-transparent-linkedin-logo-computer-icons-facebook-user-profile-facebook-blue-angle-text.png" />
 </a>
 
 <a href="https://twitter.com/calledRahul">
-  <img align="left" alt="Rahul's Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
+  <img align="left" alt="Rahul's's Twitter" width="32px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-icon-png-logo-2.png" />
 </a> 
+
+<a href="https://www.facebook.com/rahul.chauhan049/">
+  <img align="left" alt="Rahul's's Facebook" width="32px" src="https://thumbs.dreamstime.com/b/facebook-icon-logo-white-background-editable-vector-illustration-facebook-icon-logo-141051712.jpg" />
+</a> 
+
 
 <a href="https://techtalks-wm.blogspot.com/">
   <img align="left" alt="Rahul's Twitter" width="32px" src="https://cdn1.iconfinder.com/data/icons/metro-ui-dock-icon-set--icons-by-dakirby/128/Google_Blogger_mirror.png" />
